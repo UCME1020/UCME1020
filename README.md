@@ -13,10 +13,10 @@
 ---
 
 ## 🌱 Interests
-- **MLLM (Multimodal LLM)**
-  - Qwen2-VL, InternVL2, LLaVA-Video, Agentic RAG
+- **Multimodal Large Language Models (MLLM)**
+  - Vision-language modeling, Multimodal reasoning, Agentic RAG
 - **Video Understanding**
-  - Temporal modeling, Text-Video retrieval, Long-form reasoning
+  - Temporal modeling, Text-video retrieval, Long-form reasoning
 - **Efficient Multimodal Learning**
   - Mixture-of-Experts (MoE), Parameter-efficient fine-tuning (PEFT), Inference optimization
 - **Computer Vision**
@@ -45,21 +45,19 @@
 ## ⚡Research Projects
 #### [Multimodal RAG Internship Program](https://github.com/sejong-rcv/2026.Internship.MultimodalRAG) | **Technical Lead**
 - **Role:** Program planning, recruitment, and system pipeline design.
-- **Contribution:** Building a testbed for **Efficient Multimodal RAG** integrating SOTA MLLMs.
-- **Tech Stack:** `LangGraph`, `Qwen2-VL`, `InternVL2`, `LLaVA-Video`, `FastAPI`, `VectorDB`
+- **Developed System:** **AutoFolio**
+  - Automated developer portfolio system leveraging GitHub activity logs.
+  - Designed to track participant progress and generate portfolio artifacts automatically.
+- **Tech Stack:** `LangGraph`, `Vision-Language Models (MLLMs)`, `FastAPI`, `VectorDB`
 
-#### [IITP] Development of multimodal data input-based search augmentation generation technology
-- **Related Area:** Large Language Model (LLM), Retrieval Augmented Generation (RAG)
-- **Role:** Researcher | Cross-modal (Text/Image/Video) retrieval and indexing.
-
+#### [IITP] Development of Multimodal Data Input-based Search Augmented Generation Technology
+- **Related Area:** Retrieval-Augmented Generation (RAG), Multimodal Large Language Models (MLLM)
+- **Role:** Researcher | Cross-modal (Text/Image/Video) retrieval and indexing
+  
 ---
 
 ## 🛡️ Patents & SW
 - **Patent** | Method and apparatus for OVSGG based on Deep Learning (*KR 10-2025-0048046*)
-- **AutoFolio** | Automated developer portfolio system leveraging GitHub activity logs.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UCME1020&color=blueviolet" alt="profile_view_counter" />
-</p>
