@@ -1,12 +1,13 @@
 <h1 align="center">👨‍💻 Uicheol Jung (정의철)</h1>
 <p align="center">
-  <b>M.S. Student @ <a href="https://github.com/sejong-rcv">Sejong Univ. RCV Lab</a></b><br>
-  <i>Researcher at Robotics & Computer Vision Lab (RCV)</i>
+  <h2 align="center">M.S. Student @ <a href="https://github.com/sejong-rcv">Sejong Univ. RCV Lab</a></h2>
+  <p align="center"><i>Researcher at Robotics & Computer Vision Lab (RCV)</i></p>
 </p>
 
 <p align="center">
   <a href="mailto:ucjung@rcv.sejong.ac.kr"><img src="https://img.shields.io/badge/Email-ucjung@rcv.sejong.ac.kr-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/UCME1020"><img src="https://img.shields.io/badge/GitHub-@UCME1020-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/sejong-rcv"><img src="https://img.shields.io/badge/Sejong%20Univ.-RCV%20Lab-blue?style=flat-square&logo=github"></a>
 </p>
 
 ---
@@ -25,15 +26,17 @@
 
 ---
 
-## 🎓 Education & Affiliation
-- **M.S. in AI Robotics**, Sejong University | 2025.09 – PRESENT
+## 🎓 Education
+- **M.S. in AI Robotics**, Sejong University | 2025.09 – Present
 - **B.S. in AI Robotics**, Sejong University | 2018.03 – 2025.08
-- **Research Intern (URP)**, Sejong RCV Lab | 2023.07 – 2025.08 (2 Years)
+
+## 🔬 Research Experience
+- **Researcher**, Sejong RCV Lab, Sejong University | 2023.07 – Present  
 
 ---
 
 ## 📄 Publications
-- **TAME: Temporal-Aware Mixture-of-Experts for Text-Video Retrieval** *IEEE Access, Jan. 2026* | **Ui-Cheol Jung**, Juyoung Hong, Yukyung Choi | [💻 Code](https://github.com/sejong-rcv/TAME)
+- **TAME: Temporal-Aware Mixture-of-Experts for Text-Video Retrieval** *IEEE Access, Jan. 2026* | **Ui-Cheol Jung**, Juyoung Hong, Yukyung Choi | [📄 Paper](https://ieeexplore.ieee.org/document/11364210) | [💻 Code](https://github.com/sejong-rcv/TAME)
 - **Visual-Semantic Hierarchical Learning for OVSGG** *Under Review* | Geuntaek Lim, Juyoung Hong, **Ui-Cheol Jung**, Yukyung Choi
 - **Self-supervised Learning for Multispectral Pedestrian Detection** *ICROS Journal, May 2025* | Jae-Yeon Heo, **Ui-Cheol Jung**, Yujin Hwang, Yukyung Choi
 
