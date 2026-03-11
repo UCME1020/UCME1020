@@ -61,3 +61,8 @@
 
 ---
 
+## 🥇 Awards
+**Grand Prize, Sejong AI Challenge 2025S**
+
+---
+
