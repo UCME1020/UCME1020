@@ -45,7 +45,8 @@
 - **Contribution:** Building a testbed for **Efficient Multimodal RAG** integrating SOTA MLLMs.
 - **Tech Stack:** `LangGraph`, `Qwen2-VL`, `InternVL2`, `LLaVA-Video`, `FastAPI`, `VectorDB`
 
-#### [IITP] Multimodal Search-Augmented Generation (RAG)
+#### [IITP] Development of multimodal data input-based search augmentation generation technology
+- **Related Area:** Large Language Model (LLM), Retrieval Augmented Generation (RAG)
 - **Role:** Researcher | Cross-modal (Text/Image/Video) retrieval and indexing.
 
 ---
