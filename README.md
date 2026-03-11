@@ -42,7 +42,7 @@
 
 ---
 
-## ⚡ Leadership & Research Projects
+## ⚡Research Projects
 #### [Multimodal RAG Internship Program](https://github.com/sejong-rcv/2026.Internship.MultimodalRAG) | **Technical Lead**
 - **Role:** Program planning, recruitment, and system pipeline design.
 - **Contribution:** Building a testbed for **Efficient Multimodal RAG** integrating SOTA MLLMs.
